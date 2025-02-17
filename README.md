@@ -55,15 +55,3 @@ Developed a transformer-based NLP model to summarize large text datasets, enabli
 Improved user experience by delivering concise, accurate summaries of lengthy content.
 💡 Collaboration Opportunities
 I’m always open to new ideas and love collaborating with like-minded professionals! If you're working on projects related to:
-
-AI-powered chatbots
-Recommendation algorithms
-OCR technologies
-Let’s connect and create something impactful together. Feel free to reach out if you're interested in brainstorming ideas, collaborating, or seeking insights on your projects.
-
-
-😄 Pronouns
-He/Him
-
-⚡ Fun Fact
-I’m deeply passionate about experimenting with new technologies and algorithms. My ultimate goal is to build AI systems that not only solve problems but also improve lives in innovative ways. I enjoy pushing the boundaries of what’s possible, and I love the challenge of fine-tuning models to strike the perfect balance between performance and efficiency. Fun fact: I once spent an entire weekend perfecting a model just to shave off a few milliseconds in processing time!
